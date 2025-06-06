@@ -1,9 +1,7 @@
 # Basic Set up
 
-```
-Open user settings json file of VsCode named `settings.json`
+Open user settings json file of VsCode named `settings.json` <br>
 Paste the code of `settings.json` file
-```
 
 These are my preferences but you can always modify it as you please and take guidance from the videos I took inspirations from.
 
@@ -11,17 +9,13 @@ These are my preferences but you can always modify it as you please and take gui
 
 > Install Custom CSS and JS Loader Extension first
 
-```
-Create a custom css file named `custom_vscode.css` at _file:///C:/Users/Dell/.vscode/_ path
+Create a custom css file named `custom_vscode.css` at _file:///C:/Users/Dell/.vscode/_ path <br>
 Paste the `custom_vscode.css` file's code in it.
-```
 
 Or
 
-```
-Make your own customised css file
+Make your own customised css file <br>
 Link the path of that file in the `settings.json` file inside `vscode_custom_css.imports` property
-```
 
 > Don't forget to enable the Extension and Reload the VScode to see the changes
 
