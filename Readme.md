@@ -12,6 +12,7 @@
 > First Download **Aura Dracula Spirit** Theme and **helium-icon-theme** icon pack Extentions
 
 <br>
+
 - Step 1: Open user settings json file of Vscode named `settings.json` inside vscode
 - Step 2: Paste the code from `settings.json` file of this Repo
 
@@ -22,12 +23,14 @@ These are my personal preferences but you can always modify it as you please and
 > Install **Custom CSS and JS Loader** Extension first
 
 <br>
+
 - Step 1: Create a custom css file named `custom_vscode.css` at _file:///C:/Users/User/.vscode/_ path
 - Step 2: Paste the code from `custom_vscode.css` file of this Repo
 
 This set up is for windows, for other users just create your own css file and paste the code from here and change the Path of the Custom CSS File in the `settings.json` file inside `vscode_custom_css.imports` property. <br>
 Or
 <br>
+
 - Step 1: Make your own customised css file
 - Step 2: Link the path of that file in the `settings.json` file inside `vscode_custom_css.imports` property
 
