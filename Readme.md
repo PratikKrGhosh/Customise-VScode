@@ -3,7 +3,7 @@
 1. Open user settings json file of VsCode named `settings.json`
 1. Paste the code of `settings.json` file
 
-> [!NOTE] These are my personal preferences but you can always modify it as you please and take guidance from the videos I took inspirations from.
+These are my personal preferences but you can always modify it as you please and take guidance from the videos I took inspirations from.
 
 # Custom CSS
 
@@ -19,7 +19,7 @@ Or
 
 > Don't forget to enable the Extension and Reload the VScode to see the changes
 
-> [!IMPORTANT] Because we added our `custom_vscode.css` file inside `.vscode` folder, You might see Code Corrupt warning or pop up after launching VScode, Just ignore it and set it not to warn again
+== Because we added our `custom_vscode.css` file inside `.vscode` folder, You might see Code Corrupt warning or pop up after launching VScode, Just ignore it and set it not to warn again ==
 
 # Took inspiration from
 
