@@ -51,7 +51,7 @@
   "extensions.ignoreRecommendations": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "vscode_custom_css.imports": [
-    "file:///C:/Users/Dell/.vscode/custom_vscode.css"
+    "file:///C:/Users/User/.vscode/custom_vscode.css"
   ],
   "update.mode": "none" // Prevents Auto Updation of VScode
 }
