@@ -1,0 +1,57 @@
+{
+  "workbench.colorTheme": "Aura Dracula Spirit",
+  "workbench.iconTheme": "helium-icon-theme",
+  "helium-icon-theme.hidesExplorerArrows": true,
+  "workbench.statusBar.visible": false,
+  "workbench.startupEditor": "none",
+  "workbench.tips.enabled": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.navigationControl.enabled": false,
+  "workbench.tree.indent": 18,
+  "workbench.tree.renderIndentGuides": "none",
+  "workbench.colorCustomizations": {
+    "[Aura Dracula Spirit]": {
+      "editorSuggestWidget.selectedBackground": "#3A334B",
+      "sideBar.background": "#191521"
+    }
+  },
+  "breadcrumbs.enabled": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "files.autoSave": "onWindowChange",
+  "window.menuBarVisibility": "toggle",
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "editor.wordWrap": "on",
+  "editor.cursorBlinking": "expand",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.guides.indentation": false,
+  "editor.lineHeight": 1.6,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+  "editor.stickyScroll.enabled": false,
+  "editor.codeLens": false,
+  "editor.renderWhitespace": "none",
+  "editor.occurrencesHighlight": "off",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.overviewRulerBorder": false,
+  "editor.minimap.enabled": false,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "extensions.ignoreRecommendations": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/Dell/.vscode/custom_vscode.css"
+  ],
+  "update.mode": "none" // Prevents Auto Updation of VScode
+}
