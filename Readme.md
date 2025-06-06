@@ -2,6 +2,7 @@
 
 > Are you ever bored of the Default VScode Theme and Look?
 
+<br>
 If Extensions aren't enough for you, if You want something more, to change the VScode look more in depth,
 <br> (_like: change the font, size of the scroll bar, remove unnessery clutters..._)
 <br> then you are in the Right Place.
