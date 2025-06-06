@@ -1,23 +1,25 @@
 # Basic Set up
 
-Open user settings json file of VsCode named `settings.json` <br>
-Paste the code of `settings.json` file
+1. Open user settings json file of VsCode named `settings.json`
+1. Paste the code of `settings.json` file
 
-These are my preferences but you can always modify it as you please and take guidance from the videos I took inspirations from.
+[!NOTE] These are my personal preferences but you can always modify it as you please and take guidance from the videos I took inspirations from.
 
 # Custom CSS
 
 > Install Custom CSS and JS Loader Extension first
 
-Create a custom css file named `custom_vscode.css` at _file:///C:/Users/Dell/.vscode/_ path <br>
-Paste the `custom_vscode.css` file's code in it.
+1. Create a custom css file named `custom_vscode.css` at _file:///C:/Users/Dell/.vscode/_ path
+1. Paste the `custom_vscode.css` file's code in it.
 
 Or
 
-Make your own customised css file <br>
-Link the path of that file in the `settings.json` file inside `vscode_custom_css.imports` property
+1. Make your own customised css file
+1. Link the path of that file in the `settings.json` file inside `vscode_custom_css.imports` property
 
 > Don't forget to enable the Extension and Reload the VScode to see the changes
+
+[! IMPORTANT] > Because we added our `custom_vscode.css` file inside `.vscode` folder, You might see Code Corrupt warning or pop up after launching VScode, Just ignore it and set it not to warn again
 
 ### Took inspiration from
 
