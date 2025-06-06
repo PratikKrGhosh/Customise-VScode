@@ -19,7 +19,7 @@ Or
 
 > Don't forget to enable the Extension and Reload the VScode to see the changes
 
-== Because we added our `custom_vscode.css` file inside `.vscode` folder, You might see Code Corrupt warning or pop up after launching VScode, Just ignore it and set it not to warn again ==
+Because we added our `custom_vscode.css` file inside `.vscode` folder, You might see Code Corrupt warning or pop up after launching VScode, Just ignore it and set it not to warn again
 
 # Took inspiration from
 
